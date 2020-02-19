@@ -9,7 +9,6 @@
 
 <h1><center>KILKAT=Kwang Woon KIM</h1>
 <br/>
-<br/>
 <p><center> -profile- </p>
 
 <p>현> zer0mous 뉴비해커 </p>
